@@ -26,6 +26,8 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 **Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
 
+- anexos [https://github.com/joaopedro-rz/projeto-ihc/blob/main/Roteiro%20de%20Entrevista.pdf]
+
 ## 2. Perfil do usuário (Até dia 18/04)
 
 ***2.1. Descrição dos Usuários: Personas***
