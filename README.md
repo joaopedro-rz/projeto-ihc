@@ -24,6 +24,8 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 
 **Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
 
+[Questionário](https://forms.gle/YAx2bNZeGwoiKWoF7)
+
 **Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
 
 [Roteiro da entrevista](https://github.com/joaopedro-rz/projeto-ihc/blob/main/Roteiro%20de%20Entrevista.pdf)
