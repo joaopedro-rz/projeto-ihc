@@ -99,16 +99,14 @@ Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema 
 ***3.2. Descrição textual***
 
   
-
-Apresente uma descrição textual resumida do seu design. Quais as funcionalidades, principais escolhas de design, dentre outros.
+O aplicativo tem como missão ser intuitivo e objetivo. Suas principais funcionalidades são adquirir presença(através do Qr Code, localização e digital) e ver os horários de aulas e suas faltas.
 
   
 
 ***3.3. Design preliminar***
 
   
-
-Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema.
+[Protótipo Baixa Fidelidade](https://balsamiq.cloud/suoq5zo/pfnq9ne)
 
   
 
