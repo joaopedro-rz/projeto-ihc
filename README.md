@@ -91,10 +91,36 @@ Giovanni é um professor universitário familiarizado com as tecnologias dispon�
   
 
 ***3.1. Requisitos Funcionais***
-
   
+1 - O sistema deve permitir que professores e alunos se autentiquem de forma segura antes de acessar qualquer funcionalidade.
 
-Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema deveria fazer). No mínimo 15 requisitos.
+2 - Implementar uma funcionalidade que permita o registro automático de presença através do escaneamento de QR codes gerados pelo professor no início e no fim da aula.
+
+3 - O sistema deve verificar a localização geográfica do aluno no momento do registro da presença para assegurar que ele está fisicamente presente no local do evento ou aula.
+
+4 - Incorporar mecanismos de biometria (como reconhecimento facial ou impressão digital) para validar a identidade do aluno durante o registro de presença.
+
+5 - Capacidade de gerar relatórios automáticos sobre a presença dos alunos, que podem ser acessados e exportados pelos professores.
+
+6 - Desenvolver uma interface simplificada para que os professores possam facilmente gerar e escanear QR codes, além de visualizar os registros de presença.
+
+7 - Criar uma interface amigável para os alunos, permitindo que registrem sua presença rapidamente e verifiquem seu status de presença.
+
+8 - Enviar notificações automáticas para os alunos e professores sobre o início e o fim dos períodos de registro de presença.
+
+9 - Garantir que o sistema seja compatível com dispositivos móveis, permitindo que alunos e professores usem o sistema através de seus smartphones ou tablets.
+
+10 - Integrar o sistema de captação de presença com plataformas de gestão de aprendizagem existentes para sincronizar dados de presença com outros registros acadêmicos.
+
+11 - O sistema deve suportar o registro de presença para múltiplos eventos ou aulas ocorrendo simultaneamente.
+
+12 - Permitir que professores personalizem as configurações de registro de presença, como a duração do tempo permitido para o registro após o início da aula.
+
+13 - Implementar mecanismos robustos de backup e segurança para proteger os dados de presença contra perda ou acesso não autorizado.
+
+14 - Fornecer suporte técnico contínuo e atualizações regulares do sistema para garantir sua funcionalidade e segurança.
+
+15 - Manter um registro detalhado de todas as atividades no sistema para facilitar auditorias e verificar a integridade do processo de captação de presença
 
 ***3.2. Descrição textual***
 
