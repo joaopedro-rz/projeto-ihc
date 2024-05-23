@@ -140,7 +140,7 @@ O aplicativo tem como missão ser intuitivo e objetivo. Suas principais funciona
 
   
 
-Apresentar o protótipo "em uso". Seu protótipo deve ser construído utilizando o Figma.
+[Protótipo Alta Fidelidade Figma](https://www.figma.com/design/GFXbwSdVlT2jnV3WQLrREr/Projeto-IHC?node-id=0%3A1&t=iFSO3g3rNJASIdSc-1)
 
   
 
