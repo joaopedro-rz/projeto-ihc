@@ -48,6 +48,35 @@ Vinicius Fraga Pinto [Github]()
 
 [Roteiro da entrevista](https://github.com/joaopedro-rz/projeto-ihc/blob/main/Roteiro%20de%20Entrevista.pdf)
 
+Transcrição: 
+1. Por que você escolheu a área que atua? Qual o seu objetivo por trás da sua profissão?
+
+Escolhi a área da educação por acreditar no poder transformador do conhecimento. Meu objetivo é facilitar o aprendizado dos alunos, tornando o processo mais envolvente e personalizado. A tecnologia, quando bem utilizada, é uma ferramenta poderosa para alcançar esse objetivo.
+
+2. Quais são os principais desafios que você enfrenta ao integrar tecnologia no contexto educacional?
+
+Um dos maiores desafios é a falta de infraestrutura adequada em muitas escolas. A conectividade à internet ainda é instável em diversas regiões, e nem sempre há equipamentos suficientes para todos os alunos. Além disso, a resistência à mudança por parte de alguns colegas e a falta de treinamento específico em novas tecnologias também são obstáculos a serem superados.
+
+3. O que falta para essa necessidade ser sanada, ou alguma tecnologia que resolveria esse problema?
+
+No meu dia a dia, um problema que enfrento é a dificuldade em registrar a presença dos alunos de forma eficiente. O método tradicional, com chamada oral ou lista de presença, é demorado e sujeito a erros. Uma solução seria um sistema de registro de presença digital, que utilizasse, por exemplo, reconhecimento facial ou leitura de QR code. Isso agilizaria o processo, liberando mais tempo para atividades pedagógicas e garantindo maior precisão nos dados.
+
+4. Como você costuma avaliar a eficácia das ferramentas e recursos tecnológicos que utiliza no contexto educacional?
+
+Para avaliar a eficácia de uma ferramenta, observo o impacto que ela tem no engajamento dos alunos, na qualidade do aprendizado e na minha própria produtividade. Também considero o feedback dos alunos e a facilidade de uso da ferramenta.
+
+5. Quais critérios você considera mais importantes ao selecionar uma nova tecnologia para uso em sala de aula?
+
+Os critérios mais importantes são a usabilidade, a acessibilidade para todos os alunos, a relevância pedagógica e o custo-benefício. A ferramenta deve ser intuitiva, funcionar em diferentes dispositivos e se integrar facilmente ao fluxo de trabalho existente.
+
+6. Quais são as principais necessidades ou demandas que você identifica em relação à tecnologia na educação?
+
+Além da questão do registro de presença, vejo a necessidade de plataformas de aprendizado mais personalizadas, que se adaptem ao ritmo e ao estilo de cada aluno. Também acredito que a realidade virtual e a inteligência artificial têm potencial para revolucionar a forma como ensinamos e aprendemos.
+
+7. Como você acredita que essas necessidades podem ser melhor atendidas ou solucionadas?
+
+Para atender a essas necessidades, é fundamental investir em infraestrutura tecnológica nas escolas, capacitar os professores para o uso de novas ferramentas e fomentar a criação de soluções inovadoras que realmente façam a diferença na sala de aula. A colaboração entre educadores, desenvolvedores de tecnologia e formuladores de políticas públicas é essencial para construir um futuro em que a tecnologia seja uma aliada poderosa da educação.
+
 
 ## 2. Perfil do usuário (Até dia 18/04)
 
