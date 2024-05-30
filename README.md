@@ -90,12 +90,16 @@ Para atender a essas necessidades, é fundamental investir em infraestrutura tec
     -   Desejam uma maneira eficiente de registrar a presença dos alunos/participantes.
     -   Valorizam a facilidade de uso e a integração com ferramentas de ensino online.
     -   Preocupam-se com a segurança e a confiabilidade do sistema, evitando fraudes.
+
+![Persona: Giovanni](./persona_giovanni.png)
     
 -   **Estudantes**:
     
     -   Buscam uma experiência de participação fluida e sem complicações em eventos virtuais.
     -   Valorizam sistemas que ofereçam uma maneira conveniente e rápida de marcar presença.
     -   Preocupam-se com a privacidade e a segurança de seus dados pessoais durante o processo de captação de presença.
+
+![Persona: William](./persona_william.png)
 
   
 
