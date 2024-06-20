@@ -117,6 +117,8 @@ Giovanni é um professor universitário familiarizado com as tecnologias dispon�
 
 **Sugestão:** os storyboards podem ser feitos na versão gratuita da ferramenta StoryboardThat ([https://www.storyboardthat.com/](https://www.storyboardthat.com/storyboard-creator) ).
 
+![Storyboard](./storyboard-ihc-highres.png)
+
   
 
 ## 3. Design (Até dia 16/05)
